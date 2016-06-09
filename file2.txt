@@ -1,1 +1,2 @@
 file 2 is this one. found the first line
+2nd file has a second line. Neat!

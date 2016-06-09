@@ -1,2 +1,5 @@
 file 3 right hur
+<<<<<<< HEAD
 this is a edit
+=======
+more changes
